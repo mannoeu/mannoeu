@@ -32,4 +32,5 @@
 <a href="mailto:emmanuel_costasilva@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmanuel__costasilva@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6438c1b7-0811-4f38-805d-1e7a351a965b/d7ljyjf-572e028c-8d28-4b57-a450-f7739695be09.gif" alt="Jotaro Kujo Gif" />
 yare yare daze!
