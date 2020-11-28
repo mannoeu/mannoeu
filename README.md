@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannoeu&theme=synthwave&layout=compact" />
 </a>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> See you space cowboy </h3>
 
 <p align="center">
 <a href="https://mannoeu-about-me.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mannoeu-blue?style=flat-square&logo=google-chrome"></a>
