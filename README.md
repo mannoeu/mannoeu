@@ -7,7 +7,7 @@
 - 📘 &nbsp; Learning more about React Native.
 - 🎵 &nbsp; Lofi | Synthwave | Vaporwave | Future Funk
 - 🎮 &nbsp; League of Legends | Ragnarok
-- ❤️ &nbsp; JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate
+- ❤️ &nbsp; JoJo Bizarre Adventures | Shingeki no Kyojin | Steins;Gate | Cowboy Bebop
 
 <h3>🛠 Tech Stack</h3>
 
