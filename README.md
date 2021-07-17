@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Information Systems at Federal Rural University of Semiarid.
-- 💻 &nbsp; Front end developer at Acelerabit.
+- 💻 &nbsp; Front end developer at Closeer.
 - 📘 &nbsp; Learning more about React Native.
 - 🎵 &nbsp; Lofi | Synthwave | Vaporwave | Future Funk
 - 🎮 &nbsp; League of Legends | Ragnarok
