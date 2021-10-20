@@ -1,29 +1,30 @@
-<h2> Hey there! I'm Emmanuel.</h2>
+<h3><i>About Me</i></h3>
 
-<h3> 👨🏻‍💻 About Me </h3>
+- Studying Information Systems at Federal Rural University of Semiarid.
+- Front end developer at Closeer.
+- Learning more about React Native.
+- Lofi | Synthwave | Vaporwave | Future Funk
+- League of Legends | Ragnarok
+- JoJo's Bizarre Adventures | Shingeki no Kyojin | Cowboy Bebop | Steins;Gate
 
-- 🎓 &nbsp; Studying Information Systems at Federal Rural University of Semiarid.
-- 💻 &nbsp; Front end developer at Closeer.
-- 📘 &nbsp; Learning more about React Native.
-- 🎵 &nbsp; Lofi | Synthwave | Vaporwave | Future Funk
-- 🎮 &nbsp; League of Legends | Ragnarok
-- ❤️ &nbsp; JoJo's Bizarre Adventures | Shingeki no Kyojin | Cowboy Bebop | Steins;Gate
+<h3><i>Tech Stack</i></h3>
 
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Learning Typescript and React Native
-- 🛢 &nbsp; Fundamentals of Database - MySQL | MongoDB | SQlite3
-- 🔧 &nbsp; Git
-- 🖥 &nbsp; Figma | Photoshop
+- Javascript | HTML | CSS | ReactJS | NextJs
+- Fundamentals of Database - MySQL | MongoDB | SQlite3
+- Git
+- Figma | Photoshop
 
 <br/>
 
 <a href="https://github.com/mannoeu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannoeu&theme=synthwave&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannoeu&theme=synthwave&layout=compact" />
+  <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mannoeu&theme=synthwave" alt="mannoeu" /></p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannoeu&theme=synthwave&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannoeu&theme=synthwave&layout=compact" />
+  </p>
 </a>
 
-<h3> See you space cowboy </h3>
+<p align="center"><i>See you space cowboy</i></p>
 
 <p align="center">
 <a href="https://mannoeu-about-me.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mannoeu-blue?style=flat-square&logo=google-chrome"></a>
