@@ -1,7 +1,7 @@
 <h3><i>About Me</i></h3>
 
 - Studying Information Systems at Federal Rural University of Semiarid.
-- Front end developer at Closeer.
+- Software Engineer developer at Closeer.
 - Learning more about React Native.
 - Lofi | Synthwave | Vaporwave | Future Funk
 - League of Legends | Ragnarok
